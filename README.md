@@ -36,7 +36,7 @@ The project is implemented using Python libraries such as:
    git clone https://github.com/vedantbhawnani/MovieLens-Recommendation-System.git
 3. **Install dependencies:**
    pip install pandas numpy scipy scikit-learn tensorflow
-5. **Run the script:**
+5. **Run the script on Google Colab or Jupyter Notebook.**
 
 7. **Experiment with different movie titles and user IDs to get recommendations.**
 
