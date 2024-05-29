@@ -37,7 +37,6 @@ The project is implemented using Python libraries such as:
 3. **Install dependencies:**
    pip install pandas numpy scipy scikit-learn tensorflow
 5. **Run the script:**
-   https://drive.google.com/open?id=1B97LcNcTZNOXI0zHMvbc2I7IxEvvYN8k&usp=drive_copy
 
 7. **Experiment with different movie titles and user IDs to get recommendations.**
 
